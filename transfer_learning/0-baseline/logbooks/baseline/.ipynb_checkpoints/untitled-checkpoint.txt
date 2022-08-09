@@ -1,0 +1,8 @@
+TUEP: 0.5_0.25_0 voor 40 epochs
+
+TUAB: 0.5_0.25_0 voor 40 epochs
+
+TUSZ: 0_0_0 voor 40 epochs
+
+TUSL: 0.25_0_0 voor 25 epochs
+

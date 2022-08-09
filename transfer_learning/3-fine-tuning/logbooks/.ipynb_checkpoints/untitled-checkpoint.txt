@@ -1,0 +1,8 @@
+TUAB TUEP 2 hidden: 10 epochs
+TUAB TUEP 1 hidden: 5 epochs
+TUAB TUEP no freeze:
+
+TUEP TUAB 2 hidden: 45 epochs
+TUEP TUAB 1 hidden:
+TUEP TUAB no freeze:
+

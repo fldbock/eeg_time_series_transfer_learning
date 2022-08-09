@@ -1,0 +1,98 @@
+BASELINES:
+
+TUEP
+balanced accuracy 0.5726231932640076
+aupr 0.5502752838452789
+recall 0.39756178855895996 precision 0.6586514115333557 
+
+TUAB
+'/home/jupyter/time_series_transfer_learning/transfer_learning/0-baseline/model_weights/tuab_baseline_a_2.hdf5'
+balanced accuracy 0.5842027068138123
+aupr 0.7144532625083251
+recall 0.33412203192710876 precision 0.8314747214317322 
+
+TUSZ
+balanced accuracy 0.5819920301437378
+aupr 0.09463586489666856
+recall 0.4123237133026123 precision 0.1429234743118286 
+
+TUSL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OLD:
+TUEP:
+balanced accuracy 0.5844115614891052
+aupr 0.7232219763095433
+recall 0.33143290877342224 precision 0.8413887619972229 
+
+TUAB:
+balanced accuracy 0.6113288998603821
+aupr 0.9177220629984219
+recall 0.33854031562805176 precision 0.9692407846450806 
+
+TUSZ:
+balanced accuracy 0.559686541557312
+aupr 0.06732624588013815
+recall 0.31096649169921875 precision 0.10306701809167862 
+
+TUSL:
+balanced accuracy 0.467720627784729
+aupr 0.324736371637266
+recall 0.5338835120201111 precision 0.29868078231811523 

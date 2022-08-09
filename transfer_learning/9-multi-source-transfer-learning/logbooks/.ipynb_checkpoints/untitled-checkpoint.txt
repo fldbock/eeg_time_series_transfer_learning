@@ -1,0 +1,3 @@
+TUAB TUSZ TUEP: 20 epochs
+TUEP TUAB TUSZ: 150 epochs
+TUEP TUSZ TUAB: 20 epochs

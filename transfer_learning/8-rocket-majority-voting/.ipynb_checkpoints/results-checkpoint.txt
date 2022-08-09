@@ -1,0 +1,37 @@
+MAJORITY VOTING:
+TUEP:
+balanced accuracy, my_model0:  tf.Tensor(0.59874415, shape=(), dtype=float32)
+balanced accuracy, my_model1:  (0.68957747527979, 9217, 3321, 1659, 3723)
+balanced accuracy, my_model1:  (0.5785393506017888, 9147, 2242, 2738, 3793)
+balanced accuracy (0.6565524850561442, 9516, 2877, 2103, 3424)
+
+TUAB:
+balanced accuracy, my_model0:  tf.Tensor(0.5862753, shape=(), dtype=float32)
+balanced accuracy, my_model1:  (0.7521070946296873, 8697, 1240, 260, 4139)
+balanced accuracy, my_model1:  (0.6986156642775527, 10045, 922, 578, 2791)
+balanced accuracy (0.7691819881583049, 9606, 1185, 315, 3230)
+
+TUSZ:
+balanced accuracy, my_model0:  tf.Tensor(0.6422349, shape=(), dtype=float32)
+balanced accuracy, my_model1:  (0.5422945970794848, 68, 10442, 97, 657)
+balanced accuracy, my_model1:  (0.5518247821719655, 92, 10294, 245, 633)
+balanced accuracy (0.534277936465869, 55, 10462, 77, 670)
+
+OPTIMIZED VOTING:
+TUEP:
+(0.7040391759348238, 9805, 3229, 1724, 3162)
+
+TUAB:
+(0.7733687514576368, 9667, 1150, 293, 3226)
+
+TUSZ:
+(0.5550234359078867, 107, 10170, 345, 642)
+
+ALL AGREE zero:
+TUEP:
+(0.581903071624201, 11770, 1269, 3679, 1202)
+
+TUAB:
+(0.6689697713160886, 11813, 594, 804, 1125)
+
+TUSZ:

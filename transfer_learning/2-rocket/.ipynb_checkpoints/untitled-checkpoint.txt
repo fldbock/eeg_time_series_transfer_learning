@@ -1,0 +1,62 @@
+TUSZ TUSZ: 
+tf.Tensor(0.68579876, shape=(), dtype=float32)
+tf.Tensor(0.4556962, shape=(), dtype=float32)
+tf.Tensor(0.9159013, shape=(), dtype=float32)
+[[10172   934]
+ [   86    72]]
+
+TUSZ TUEP:
+tf.Tensor(0.5705222, shape=(), dtype=float32)
+tf.Tensor(0.6036536, shape=(), dtype=float32)
+tf.Tensor(0.53739077, shape=(), dtype=float32)
+[[3629 3124]
+ [4426 6741]]
+
+TUSZ TUAB:
+tf.Tensor(0.7165266, shape=(), dtype=float32)
+tf.Tensor(0.8497387, shape=(), dtype=float32)
+tf.Tensor(0.5833146, shape=(), dtype=float32)
+[[2594 1853]
+ [1409 7968]]
+
+TUEP TUSZ:
+tf.Tensor(0.69048333, shape=(), dtype=float32)
+tf.Tensor(0.46464646, shape=(), dtype=float32)
+tf.Tensor(0.91632026, shape=(), dtype=float32)
+[[10140   926]
+ [  106    92]]
+
+TUEP TUEP:
+tf.Tensor(0.6484053, shape=(), dtype=float32)
+tf.Tensor(0.6802626, shape=(), dtype=float32)
+tf.Tensor(0.61654806, shape=(), dtype=float32)
+[[4851 3017]
+ [3214 6838]]
+
+TUEP TUAB:
+tf.Tensor(0.6862951, shape=(), dtype=float32)
+tf.Tensor(0.8945714, shape=(), dtype=float32)
+tf.Tensor(0.47801876, shape=(), dtype=float32)
+[[3262 3562]
+ [ 738 6262]]
+
+TUAB TUSZ:
+tf.Tensor(0.6373403, shape=(), dtype=float32)
+tf.Tensor(0.35736677, shape=(), dtype=float32)
+tf.Tensor(0.9173138, shape=(), dtype=float32)
+[[10040   905]
+ [  205   114]]
+
+TUAB TUEP:
+tf.Tensor(0.7035769, shape=(), dtype=float32)
+tf.Tensor(0.7279229, shape=(), dtype=float32)
+tf.Tensor(0.67923087, shape=(), dtype=float32)
+[[5334 2519]
+ [2739 7328]]
+
+TUAB TUAB:
+tf.Tensor(0.6684904, shape=(), dtype=float32)
+tf.Tensor(0.8542398, shape=(), dtype=float32)
+tf.Tensor(0.48274094, shape=(), dtype=float32)
+[[2825 3027]
+ [1162 6810]]
