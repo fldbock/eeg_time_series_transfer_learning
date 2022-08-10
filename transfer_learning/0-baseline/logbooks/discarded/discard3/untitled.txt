@@ -1,0 +1,5 @@
+epochs baseline:
+
+TUEP: 20 epochs
+TUAB: 20 epochs
+TUSZ: doesnt learn so 5 epochs

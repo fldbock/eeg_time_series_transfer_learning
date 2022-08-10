@@ -1,0 +1,12 @@
+tuep tuab: 10 epochs
+tuab tuep: 5 epochs
+
+TUAB TUEP:
+balanced accuracy 0.5808531045913696
+aupr 0.7250865589720012
+recall 0.3549879193305969 precision 0.8268765211105347 
+
+TUEP TUAB:
+balanced accuracy 0.6097823977470398
+aupr 0.9000830862478649
+recall 0.3213067352771759 precision 0.965340793132782 

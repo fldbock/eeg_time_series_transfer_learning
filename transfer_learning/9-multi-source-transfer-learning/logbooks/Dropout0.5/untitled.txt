@@ -1,0 +1,3 @@
+TUAB_TUSZ: 150 epochs
+TUEP_TUAB: 150 epochs
+TUEP_TUSZ: 70 epochs

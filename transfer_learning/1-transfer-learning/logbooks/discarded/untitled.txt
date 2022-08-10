@@ -1,0 +1,17 @@
+TUEP TUAB: 15 epochs
+TUAB TUEP: 5 epochs
+
+TUEP TUSZ: 40
+TUSZ TUEP: 40
+
+TUAB TUSZ: 5 (doesnt really do more than random)
+TUSZ TUAB: 40
+
+TUEP TUSL: 15
+TUSL TUEP: 15
+
+TUAB TUSL: 15
+TUSL TUAB: 25
+
+TUSZ TUSL:
+TUSL TUSZ:

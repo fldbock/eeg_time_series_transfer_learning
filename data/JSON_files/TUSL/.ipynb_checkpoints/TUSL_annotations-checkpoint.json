@@ -1,0 +1,452 @@
+{
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/002/00000254/s005_2010_11_15/00000254_s005_t000.edf": [
+        "368.0000 378.0000 bckg",
+        "411.0000 421.0000 bckg",
+        "294.0000 304.0000 slow",
+        "399.0000 409.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/002/00000254/s007_2013_03_25/00000254_s007_t000.edf": [
+        "183.0000 193.0000 slow",
+        "654.0000 664.0000 slow",
+        "91.0000 101.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/004/00000492/s003_2003_07_18/00000492_s003_t004.edf": [
+        "15.0000 25.0000 seiz",
+        "115.0000 125.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/009/00000906/s005_2003_04_27/00000906_s005_t000.edf": [
+        "1.0000 11.0000 bckg",
+        "49.0000 59.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/009/00000906/s016_2012_03_01/00000906_s016_t000.edf": [
+        "87.0000 97.0000 bckg",
+        "246.0000 256.0000 bckg",
+        "117.0000 127.0000 slow",
+        "42.0000 52.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/009/00000906/s017_2012_03_02/00000906_s017_t000.edf": [
+        "64.0000 74.0000 bckg",
+        "27.0000 37.0000 bckg",
+        "21.0000 31.0000 slow",
+        "51.0000 61.0000 slow",
+        "7.0000 17.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/009/00000906/s018_2013_01_22/00000906_s018_t000.edf": [
+        "380.0000 390.0000 bckg",
+        "250.0000 260.0000 bckg",
+        "208.0000 218.0000 bckg",
+        "188.0000 198.0000 bckg",
+        "154.0000 164.0000 bckg",
+        "134.0000 144.0000 slow",
+        "16.0000 26.0000 slow",
+        "364.0000 374.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/015/00001543/s002_2004_07_16/00001543_s002_t006.edf": [
+        "194.0000 204.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/025/00002521/s002_2006_03_01/00002521_s002_t001.edf": [
+        "106.0000 116.0000 seiz",
+        "95.0000 105.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/028/00002868/s003_2013_08_07/00002868_s003_t000.edf": [
+        "125.0000 135.0000 seiz",
+        "279.0000 289.0000 seiz",
+        "1015.0000 1025.0000 seiz",
+        "1203.0000 1213.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/029/00002991/s003_2010_04_26/00002991_s003_t000.edf": [
+        "128.0000 138.0000 bckg",
+        "167.0000 177.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/054/00005427/s003_2012_01_05/00005427_s003_t000.edf": [
+        "1.0000 11.0000 bckg",
+        "14.0000 24.0000 bckg",
+        "392.0000 402.0000 slow",
+        "508.0000 518.0000 slow",
+        "703.0000 713.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/054/00005427/s004_2012_06_21/00005427_s004_t000.edf": [
+        "5.0000 15.0000 bckg",
+        "25.0000 35.0000 bckg",
+        "60.0000 70.0000 bckg",
+        "144.0000 154.0000 slow",
+        "165.0000 175.0000 slow",
+        "499.0000 509.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/064/00006440/s001_2010_04_17/00006440_s001_t001.edf": [
+        "1645.0000 1655.0000 bckg",
+        "281.0000 291.0000 seiz",
+        "937.0000 947.0000 seiz",
+        "1566.0000 1576.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/064/00006440/s002_2010_04_17/00006440_s002_t003.edf": [
+        "51.0000 61.0000 bckg",
+        "256.0000 266.0000 seiz",
+        "499.0000 509.0000 seiz",
+        "576.0000 586.0000 bckg",
+        "196.0000 206.0000 seiz",
+        "454.0000 464.0000 seiz",
+        "60.0000 70.0000 seiz",
+        "70.0000 80.0000 bckg",
+        "156.0000 166.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/064/00006440/s003_2010_04_18/00006440_s003_t001.edf": [
+        "321.0000 331.0000 bckg",
+        "217.0000 227.0000 seiz",
+        "193.0000 203.0000 seiz",
+        "546.0000 556.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/064/00006440/s004_2010_04_18/00006440_s004_t001.edf": [
+        "27.0000 37.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/064/00006440/s005_2010_04_19/00006440_s005_t001.edf": [
+        "124.0000 134.0000 seiz",
+        "524.0000 534.0000 seiz",
+        "26.0000 36.0000 seiz",
+        "334.0000 344.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/065/00006514/s028_2010_06_30/00006514_s028_t000.edf": [
+        "935.0000 945.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/065/00006535/s004_2012_07_17/00006535_s004_t004.edf": [
+        "420.0000 430.0000 bckg",
+        "325.0000 335.0000 bckg",
+        "104.0000 114.0000 slow",
+        "522.0000 532.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/065/00006535/s005_2012_07_18/00006535_s005_t007.edf": [
+        "1032.0000 1042.0000 bckg",
+        "536.0000 546.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/068/00006811/s001_2010_02_12/00006811_s001_t000.edf": [
+        "1108.0000 1118.0000 bckg",
+        "467.0000 477.0000 seiz",
+        "988.0000 998.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/068/00006811/s002_2010_02_12/00006811_s002_t000.edf": [
+        "1774.0000 1784.0000 bckg",
+        "73.0000 83.0000 seiz",
+        "157.0000 167.0000 seiz",
+        "687.0000 697.0000 seiz",
+        "1287.0000 1297.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/068/00006811/s005_2011_10_18/00006811_s005_t000.edf": [
+        "98.0000 108.0000 bckg",
+        "65.0000 75.0000 bckg",
+        "247.0000 257.0000 slow",
+        "275.0000 285.0000 slow",
+        "291.0000 301.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/082/00008295/s001_2011_11_07/00008295_s001_t001.edf": [
+        "475.0000 485.0000 seiz",
+        "1295.0000 1305.0000 seiz",
+        "734.0000 744.0000 seiz",
+        "1392.0000 1402.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/082/00008295/s012_2012_07_27/00008295_s012_t006.edf": [
+        "113.0000 123.0000 slow",
+        "127.0000 137.0000 slow",
+        "76.0000 86.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/082/00008295/s013_2013_02_23/00008295_s013_t001.edf": [
+        "429.0000 439.0000 slow",
+        "535.0000 545.0000 slow",
+        "578.0000 588.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/084/00008444/s001_2011_09_28/00008444_s001_t001.edf": [
+        "490.0000 500.0000 bckg",
+        "1097.0000 1107.0000 bckg",
+        "107.0000 117.0000 slow",
+        "149.0000 159.0000 slow",
+        "241.0000 251.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/084/00008444/s002_2012_03_18/00008444_s002_t001.edf": [
+        "365.0000 375.0000 slow",
+        "455.0000 465.0000 slow",
+        "64.0000 74.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/084/00008476/s001_2012_10_21/00008476_s001_t000.edf": [
+        "198.0000 208.0000 seiz",
+        "582.0000 592.0000 seiz",
+        "961.0000 971.0000 seiz",
+        "1116.0000 1126.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/084/00008476/s003_2012_10_22/00008476_s003_t010.edf": [
+        "159.0000 169.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/084/00008476/s006_2012_10_24/00008476_s006_t008.edf": [
+        "518.0000 528.0000 seiz",
+        "328.0000 338.0000 seiz",
+        "529.0000 539.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/086/00008615/s001_2012_01_13/00008615_s001_t000.edf": [
+        "4.0000 14.0000 bckg",
+        "438.0000 448.0000 bckg",
+        "1178.0000 1188.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/087/00008738/s006_2013_06_06/00008738_s006_t005.edf": [
+        "223.0000 233.0000 bckg",
+        "200.0000 210.0000 bckg",
+        "144.0000 154.0000 slow",
+        "239.0000 249.0000 bckg",
+        "221.0000 231.0000 bckg",
+        "255.0000 265.0000 slow",
+        "84.0000 94.0000 slow",
+        "213.0000 223.0000 slow",
+        "280.0000 290.0000 slow",
+        "401.0000 411.0000 slow",
+        "234.0000 244.0000 slow",
+        "58.0000 68.0000 slow",
+        "78.0000 88.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/091/00009158/s002_2012_05_12/00009158_s002_t000.edf": [
+        "275.0000 285.0000 seiz",
+        "753.0000 763.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/092/00009232/s001_2012_10_10/00009232_s001_t002.edf": [
+        "438.0000 448.0000 bckg",
+        "449.0000 459.0000 bckg",
+        "406.0000 416.0000 slow",
+        "563.0000 573.0000 bckg",
+        "595.0000 605.0000 bckg",
+        "243.0000 253.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/092/00009232/s002_2012_10_10/00009232_s002_t004.edf": [
+        "145.0000 155.0000 slow",
+        "394.0000 404.0000 slow",
+        "575.0000 585.0000 slow",
+        "96.0000 106.0000 slow",
+        "265.0000 275.0000 bckg",
+        "276.0000 286.0000 bckg",
+        "488.0000 498.0000 bckg",
+        "231.0000 241.0000 slow",
+        "198.0000 208.0000 bckg",
+        "585.0000 595.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/092/00009232/s004_2012_10_11/00009232_s004_t010.edf": [
+        "143.0000 153.0000 slow",
+        "226.0000 236.0000 slow",
+        "277.0000 287.0000 slow",
+        "376.0000 386.0000 slow",
+        "232.0000 242.0000 slow",
+        "89.0000 99.0000 slow",
+        "136.0000 146.0000 bckg",
+        "459.0000 469.0000 bckg",
+        "490.0000 500.0000 bckg",
+        "518.0000 528.0000 bckg",
+        "535.0000 545.0000 bckg",
+        "1.0000 11.0000 bckg",
+        "158.0000 168.0000 bckg",
+        "63.0000 73.0000 bckg",
+        "91.0000 101.0000 bckg",
+        "220.0000 230.0000 bckg",
+        "305.0000 315.0000 bckg",
+        "458.0000 468.0000 slow",
+        "44.0000 54.0000 bckg",
+        "70.0000 80.0000 bckg",
+        "88.0000 98.0000 bckg",
+        "254.0000 264.0000 bckg",
+        "189.0000 199.0000 bckg",
+        "536.0000 546.0000 bckg",
+        "564.0000 574.0000 bckg",
+        "583.0000 593.0000 bckg",
+        "167.0000 177.0000 bckg",
+        "190.0000 200.0000 bckg",
+        "244.0000 254.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/092/00009232/s005_2012_10_19/00009232_s005_t000.edf": [
+        "873.0000 883.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/096/00009623/s008_2012_10_22/00009623_s008_t005.edf": [
+        "12.0000 22.0000 slow",
+        "242.0000 252.0000 slow",
+        "309.0000 319.0000 slow",
+        "94.0000 104.0000 bckg",
+        "272.0000 282.0000 bckg",
+        "154.0000 164.0000 slow",
+        "186.0000 196.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/096/00009630/s001_2012_11_19/00009630_s001_t002.edf": [
+        "240.0000 250.0000 seiz",
+        "466.0000 476.0000 seiz",
+        "657.0000 667.0000 seiz",
+        "869.0000 879.0000 seiz",
+        "1154.0000 1164.0000 seiz",
+        "1511.0000 1521.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/099/00009994/s001_2013_02_04/00009994_s001_t000.edf": [
+        "434.0000 444.0000 bckg",
+        "63.0000 73.0000 bckg",
+        "19.0000 29.0000 slow",
+        "55.0000 65.0000 slow",
+        "7.0000 17.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/099/00009994/s008_2013_03_15/00009994_s008_t002.edf": [
+        "31.0000 41.0000 bckg",
+        "17.0000 27.0000 bckg",
+        "158.0000 168.0000 slow",
+        "339.0000 349.0000 slow",
+        "73.0000 83.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/101/00010158/s001_2013_01_14/00010158_s001_t001.edf": [
+        "340.0000 350.0000 bckg",
+        "506.0000 516.0000 seiz",
+        "1404.0000 1414.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/101/00010158/s003_2013_01_14/00010158_s003_t002.edf": [
+        "363.0000 373.0000 seiz",
+        "506.0000 516.0000 seiz",
+        "550.0000 560.0000 seiz",
+        "223.0000 233.0000 seiz",
+        "646.0000 656.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/101/00010158/s004_2013_01_15/00010158_s004_t002.edf": [
+        "273.0000 283.0000 slow",
+        "27.0000 37.0000 slow",
+        "55.0000 65.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/101/00010158/s005_2013_01_16/00010158_s005_t000.edf": [
+        "576.0000 586.0000 bckg",
+        "490.0000 500.0000 bckg",
+        "17.0000 27.0000 slow",
+        "35.0000 45.0000 slow",
+        "473.0000 483.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/104/00010418/s003_2013_06_08/00010418_s003_t004.edf": [
+        "232.0000 242.0000 seiz",
+        "423.0000 433.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/104/00010418/s008_2013_06_14/00010418_s008_t000.edf": [
+        "182.0000 192.0000 bckg",
+        "118.0000 128.0000 bckg",
+        "272.0000 282.0000 slow",
+        "32.0000 42.0000 slow",
+        "401.0000 411.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/104/00010418/s009_2013_06_17/00010418_s009_t000.edf": [
+        "1350.0000 1360.0000 bckg",
+        "38.0000 48.0000 bckg",
+        "118.0000 128.0000 slow",
+        "220.0000 230.0000 slow",
+        "50.0000 60.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/104/00010421/s001_2013_06_14/00010421_s001_t000.edf": [
+        "90.0000 100.0000 bckg",
+        "363.0000 373.0000 bckg",
+        "656.0000 666.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/104/00010427/s001_2013_06_14/00010427_s001_t000.edf": [
+        "2546.0000 2556.0000 bckg",
+        "1811.0000 1821.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/104/00010489/s002_2013_07_09/00010489_s002_t001.edf": [
+        "62.0000 72.0000 seiz",
+        "617.0000 627.0000 seiz",
+        "2081.0000 2091.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/01_tcp_ar/105/00010563/s004_2013_07_18/00010563_s004_t002.edf": [
+        "246.0000 256.0000 bckg",
+        "106.0000 116.0000 slow",
+        "91.0000 101.0000 slow",
+        "166.0000 176.0000 slow",
+        "234.0000 244.0000 slow",
+        "263.0000 273.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/003/00000302/s001_2003_09_24/00000302_s001_t000.edf": [
+        "726.0000 736.0000 seiz",
+        "1046.0000 1056.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/004/00000492/s002_2003_07_18/00000492_s002_t000.edf": [
+        "199.0000 209.0000 bckg",
+        "252.0000 262.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/010/00001006/s001_2003_04_28/00001006_s001_t001.edf": [
+        "1588.0000 1598.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/010/00001006/s002_2003_04_28/00001006_s002_t003.edf": [
+        "29.0000 39.0000 seiz",
+        "24.0000 34.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/015/00001543/s001_2004_07_14/00001543_s001_t000.edf": [
+        "31.0000 41.0000 seiz",
+        "663.0000 673.0000 seiz",
+        "1064.0000 1074.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/025/00002521/s001_2006_03_01/00002521_s001_t000.edf": [
+        "941.0000 951.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/025/00002521/s005_2006_03_23/00002521_s005_t000.edf": [
+        "213.0000 223.0000 bckg",
+        "295.0000 305.0000 bckg",
+        "28.0000 38.0000 slow",
+        "531.0000 541.0000 slow",
+        "84.0000 94.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/028/00002806/s002_2004_12_23/00002806_s002_t001.edf": [
+        "152.0000 162.0000 seiz",
+        "1371.0000 1381.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/028/00002806/s003_2004_12_28/00002806_s003_t000.edf": [
+        "103.0000 113.0000 bckg",
+        "1024.0000 1034.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/039/00003977/s001_2007_03_26/00003977_s001_t001.edf": [
+        "98.0000 108.0000 seiz",
+        "576.0000 586.0000 seiz",
+        "301.0000 311.0000 seiz",
+        "479.0000 489.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/041/00004126/s002_2008_02_01/00004126_s002_t000.edf": [
+        "26.0000 36.0000 bckg",
+        "48.0000 58.0000 bckg",
+        "395.0000 405.0000 bckg",
+        "997.0000 1007.0000 bckg",
+        "1022.0000 1032.0000 bckg",
+        "958.0000 968.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/044/00004473/s001_2008_02_11/00004473_s001_t000.edf": [
+        "104.0000 114.0000 seiz",
+        "649.0000 659.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/044/00004473/s002_2008_02_12/00004473_s002_t001.edf": [
+        "398.0000 408.0000 slow",
+        "740.0000 750.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/044/00004473/s003_2008_02_14/00004473_s003_t002.edf": [
+        "663.0000 673.0000 bckg",
+        "463.0000 473.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/056/00005672/s001_2009_04_03/00005672_s001_t001.edf": [
+        "296.0000 306.0000 bckg",
+        "249.0000 259.0000 seiz",
+        "754.0000 764.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/065/00006501/s001_2010_01_03/00006501_s001_t000.edf": [
+        "116.0000 126.0000 bckg",
+        "181.0000 191.0000 bckg",
+        "1040.0000 1050.0000 bckg",
+        "1169.0000 1179.0000 slow",
+        "133.0000 143.0000 slow"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/065/00006514/s007_2010_05_03/00006514_s007_t001.edf": [
+        "67.0000 77.0000 seiz",
+        "184.0000 194.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/065/00006514/s008_2010_05_03/00006514_s008_t001.edf": [
+        "45.0000 55.0000 seiz",
+        "282.0000 292.0000 seiz",
+        "533.0000 543.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/065/00006514/s020_2010_05_17/00006514_s020_t001.edf": [
+        "40.0000 50.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/076/00007623/s001_2011_02_24/00007623_s001_t000.edf": [
+        "485.0000 495.0000 seiz",
+        "1229.0000 1239.0000 seiz"
+    ],
+    "https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_slowing/v1.0.1/edf/02_tcp_le/079/00007952/s001_2011_07_25/00007952_s001_t001.edf": [
+        "456.0000 466.0000 bckg",
+        "79.0000 89.0000 bckg",
+        "477.0000 487.0000 seiz"
+    ]
+}
